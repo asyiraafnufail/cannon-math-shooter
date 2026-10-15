@@ -287,7 +287,7 @@ function drawStartScreen() {
   fill(255, 215, 0);
   textSize(34);
   textStyle(BOLD);
-  text("MATH CANON SHOOTER", V_WIDTH / 2, 90);
+  text("MATH CANNON SHOOTER", V_WIDTH / 2, 90);
 
   fill(25, 25, 30);
   stroke(80);
